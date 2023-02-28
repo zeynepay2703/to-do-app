@@ -1,3 +1,3 @@
-#ToDo App with React
-## React & Javascript
+## ToDo App with React
+# React & Javascript
 ###### 
