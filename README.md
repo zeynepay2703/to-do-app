@@ -1,5 +1,5 @@
 # ToDo App with React
-## React & Javascript
+## React & JavaScript
 ###### React ile yapılmış bir ToDo App örneği.
 ---
 ### Görseller
