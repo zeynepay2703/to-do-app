@@ -5,5 +5,5 @@
 ### Görseller
 
 <div align="center">
-    (https://user-images.githubusercontent.com/116477431/222065971-b5109214-1b10-44c0-8b51-8e4da738a2a7.gif)
+    ![my_gif](https://user-images.githubusercontent.com/116477431/222066741-524a995b-7953-4d48-9b6f-79155d1f7cff.gif)
 </div>
